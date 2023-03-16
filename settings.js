@@ -16,16 +16,16 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
-global.owner = ['967771160204'] //ur owner number
-global.ownername = "🎭◤𝙀𝙈𝙋𝙀𝙍𝙊𝙍🦂𝘼𝙉𝙐𝙎◢🎭" //ur owner name
+global.owner = ['01200339757'] //ur owner number
+global.ownername = "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰" //ur owner name
 global.ytname = "YT: kavee" //ur yt chanel name
 global.socialm = "Dark Nero" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kurunegala" //ur location
 
 //bot bomdy 
-global.ownernomer = "967771160204" //ur number
-global.premium = ['967771160204'] //ur premium number
-global.botname = '🎭الامبراطور انوس 🎭MD V7' //ur bot name
+global.ownernomer = "01200339757" //ur number
+global.premium = ['01200339757'] //ur premium number
+global.botname = '❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰MD V7' //ur bot name
 global.linkz = "https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/@emperoranus7621" //ur website to be displayed
 global.botscript = 'https://github.com/vhhvf/DARKNERO--V7' //script link
@@ -46,11 +46,11 @@ global.mess = {
     admin: 'This feature could be used by admins only!',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'هذا الامر الامبراطور انوس فقط',
-    group: 'هذا الامر الي الجروبات فقط!',
-    private: 'هذا الامر الي الخاص فقط!',
+    owner: "هذا الامر للتيربو فقط',
+    group: 'هذا الامر في الرومات فقط!',
+    private: 'هذا الامر في الخاص فقط!',
     bot: 'This feature could be used by bot only',
-    wait: 'جاوي التحميل...',
+    wait:" استني يعم😂.',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
